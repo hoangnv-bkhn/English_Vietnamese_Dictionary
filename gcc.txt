@@ -1,0 +1,2 @@
+gcc -o main main.c -Wall `pkg-config --cflags --libs gtk+-3.0` libfdr.a libbt.a
+https://github.com/quanghien95/Dict/tree/master/data
